@@ -1,10 +1,13 @@
 ### W1-1作业：
-* 安装 Metamask、并创建好账号
-* 执行一次转账
-* 使用 Remix 创建任意一个合约
-* VSCode IDE 开发环境配置
-* 使用 Truffle 部署 Counter 合约 到 test 网络（goerli）（提交交易 hash）
-* 编写一个测试用例
+- [x] 安装 Metamask、并创建好账号  
+- [x] 执行一次转账
+0xc1090d306d63e0f797355d165dff3139496dd1abc1ad5ee8d1bae89884194fe2
+- [x] 使用 Remix 创建任意一个合约
+- [x] VSCode IDE 开发环境配置
+
+- [x] 使用 Truffle 部署 Counter 合约 到 test 网络（goerli）（提交交易 hash）
+0xf45E5009d40422A94390FEF435e02b0Da18217C7
+- [x] 编写一个测试用例
 
 ### W1-2作业：
 * 使用Hardhat部署修改后的Counter
